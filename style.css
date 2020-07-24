@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color:black;
+    
+  }
+   
+.font{
+    color :green;
+    font-family: 'Akronim', cursive;
+    text-align:  center;
+    font-size: 110px;;
+    border: lawngreen;
+
+
+}
