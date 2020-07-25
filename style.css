@@ -5,7 +5,7 @@ body {
     
   }
    
-.font{
+  .font{
     color :green;
     font-family: 'Akronim', cursive;
     text-align:  center;
@@ -13,4 +13,30 @@ body {
     border: lawngreen;
 
 
+}
+.flop{
+  background-color: black;
+  width: 270px;
+  /*margin-left:70px ;*/
+  font-size: 40px;
+  border: solid 1px green;
+  color: darkgreen;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Bellota', cursive;
+
+
+}
+.knopki{
+  align-items: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+}
+.volik{
+  color: darkgreen;
+  text-decoration: none;
 }
